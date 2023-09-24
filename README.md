@@ -85,28 +85,28 @@ Markdown locally on your own computer using Visual Studio Code (VSCode), the
 Command Line Interface (CLI), and NPM scripts to automate your code's quality
 (formatting, linting and spell checking).
 
-- [ ] 🥚 **Folder Structures**: You can explain how files and folders are stored
+- [x] 🥚 **Folder Structures**: You can explain how files and folders are stored
       in your computer and can find, open or create files in your computer
       without using the Command Line Interface.
 - 🥚 **Command Line Interface (CLI)**: In a Unix shell you can ...
-  - [ ] Open a new terminal window
-  - [ ] Navigate up and down directories using `cd`
-  - [ ] List the contents of a directory using `ls`
-  - [ ] View the contents of a file using `cat`
-  - [ ] Create new files using `touch`
-  - [ ] Create new folders using `mkdir`
-- [ ] 🥚 **Markdown**: You can write a document in Markdown with no syntax
+  - [x] Open a new terminal window
+  - [x] Navigate up and down directories using `cd`
+  - [x] List the contents of a directory using `ls`
+  - [x] View the contents of a file using `cat`
+  - [x] Create new files using `touch`
+  - [x] Create new folders using `mkdir`
+- [x] 🥚 **Markdown**: You can write a document in Markdown with no syntax
       mistakes that renders into a well-formatted document.
 - 🥚 **VSCode**: You can complete these workflows in VScode, and can use
   keyboard shortcuts to complete them all:
-  - [ ] Opening a repository in a new window
-  - [ ] Opening the VSCode terminal
-  - [ ] Adding a new file
-  - [ ] Adding a new folder
-  - [ ] Deleting a file
-  - [ ] Deleting a folder
-  - [ ] Previewing a Markdown File
-  - [ ] Formatting a Markdown document
+  - [x] Opening a repository in a new window
+  - [x] Opening the VSCode terminal
+  - [x] Adding a new file
+  - [x] Adding a new folder
+  - [x] Deleting a file
+  - [x] Deleting a folder
+  - [x] Previewing a Markdown File
+  - [x] Formatting a Markdown document
 - [ ] 🥚 **READMEs**: You can write a README file that describes the project you
       are working on, why it's helpful, and how someone can use it.
 - 🥚 **NPM**: You can use NPM commands to verify your code's quality, this
